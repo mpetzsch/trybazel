@@ -1,0 +1,6 @@
+workspace(name="bthing")
+
+local_repository(
+    name = "bcore",
+    path = "/Users/mpetzsch/Documents/dev/bb/bcore"
+)
